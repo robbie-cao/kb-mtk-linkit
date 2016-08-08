@@ -7,8 +7,8 @@
 
 ## MT2523
 
-![MT2523](MT2523G.png)
-![MT2523](MT2523_SiP.png)
+![MT2523](images/MT2523G.png)
+![MT2523](images/MT2523_SiP.png)
 
 ## MT7687/97 vs MT2523
 
